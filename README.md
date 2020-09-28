@@ -1,5 +1,6 @@
 # three-cushion-billiards
 Criteria: 
+
     •	Proper  object  oriented  (OO)  hierarchy (Use  concepts  of  interfaces,  abstract  classes  while designing OO hierarchy)
     •	There 2 type of ball. Any three standard balls, and one white cueball.
     •	Mouse or Key listeners (Both of them must be control your cue stick. You can use arrows in the keyboard and click your mouse to control it.)
